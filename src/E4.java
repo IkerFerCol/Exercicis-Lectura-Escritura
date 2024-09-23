@@ -22,7 +22,6 @@ public class E4 {
 
             ArrayList<String> arraylistn = new ArrayList();
             ArrayList<String> arraylista = new ArrayList();
-
             while (lectornombre.hasNextLine()) {
                 arraylistn.add(lectornombre.nextLine());
             }
